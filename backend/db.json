@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "Monkey D. Luffy",
+      "reward": "B$1.500.000,000-",
+      "id": 1
+    },
+    {
+      "name": "Roronoa Zoro",
+      "reward": "B$320.000,000-",
+      "id": 2
+    },
+    {
+      "name": "Vinsmoke Sanji",
+      "reward": "B$330.000,000-",
+      "id": 3
+    },
+    {
+      "name": "Nami",
+      "reward": "B$66.000,000-",
+      "id": 4
+    },
+    {
+      "name": "Franky",
+      "reward": "B$100.000,000-",
+      "id": 5
+    },
+    {
+      "name": "Chooper",
+      "reward": "B$100-",
+      "id": 6
+    },
+    {
+      "name": "Usopp",
+      "reward": "B$200.000,000-",
+      "id": 7
+    },
+    {
+      "name": "Nico Robin",
+      "reward": "B$130.000,000-",
+      "id": 8
+    },
+    {
+      "name": "Brook",
+      "reward": "B$83.000,000-",
+      "id": 9
+    },
+    {
+      "name": "Nefertari Vivi",
+      "reward": "Unknown",
+      "id": 10
+    },
+    {
+      "name": "Jinbe",
+      "reward": "B$438.000,000-",
+      "id": 11
+    }
+  ]
+}
